@@ -1,7 +1,7 @@
 # RPS-Node-Console-Game
  Play RPS in Node.js console, 15 minute challenge with https://github.com/Rubayz/RPS-Console-Game  
  Uses [Readline](https://nodejs.org/api/readline.html) which is a native Node dependency (since Node v10), not supposed to be installed separately.
- <img src="https://tenor.com/sYrX.gif" alt="TheMoreYouKnow">
+ <img src="/Assets/TheMoreYouKnow.gif" alt="TheMoreYouKnow">
 
 ## Post Script
 Finished in 11 Min  
