@@ -1,0 +1,19 @@
+{
+  "name": "rps-node-console-game",
+  "version": "1.0.0",
+  "description": "Play RPS in Node.js console, 15 minute challenge with https://github.com/Rubayz/RPS-Console-Game",
+  "main": "./Source/RPS.js",
+  "scripts": {
+    "run": "node ./Source/RPS.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderMath/RPS-Node-Console-Game.git"
+  },
+  "author": "Defective Detective aka SpiderBro aka SpiderMath aka RishiMath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiderMath/RPS-Node-Console-Game/issues"
+  },
+  "homepage": "https://github.com/SpiderMath/RPS-Node-Console-Game#readme"
+}
