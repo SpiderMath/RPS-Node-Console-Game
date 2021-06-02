@@ -11,6 +11,8 @@ function RPS(userChoice) {
 		"scissors",
 	];
 
+	if(!userChoice.length) throw new Error("No input provided");
+
 	const pick = options.filter(opt => new RegExp(userChoice, "gi").test(opt)).sort((a, b) => a.length - b.length)[0];
 
 	if(!pick) throw new Error('You did not provide a valid input');
